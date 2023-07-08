@@ -12,7 +12,6 @@ server.use(
   // Add custom route here if needed
   jsonServer.rewriter({
     "/api/*": "/$1",
-    "/carts": "/carts",
   })
 );
 server.use(router);
