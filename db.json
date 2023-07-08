@@ -65,17 +65,5 @@
       "price": "8000"
     }
   ],
-  "orderedProducts": [
-    [
-      {
-        "id": 2,
-        "title": "Plain T-shirt",
-        "img": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/25/images/artworkimages/medium/1/team-work-makes-the-dream-work-motivational-quote-quote-design-transparent.png?targetx=28&targety=-1&imagewidth=371&imageheight=575&modelwidth=430&modelheight=575",
-        "color": "",
-        "size": "",
-        "price": "550",
-        "quantity": 1
-      }
-    ]
-  ]
+  "orderedProducts": []
 }
