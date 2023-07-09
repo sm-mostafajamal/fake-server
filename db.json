@@ -1,14 +1,5 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "number": "01855536222",
-      "fullName": "S.M. Mostafa Jamal",
-      "email": "sm.mostafajamal@pm.me",
-      "address": "Halishahar, Chittagong",
-      "password": "123456"
-    }
-  ],
+  "users": [],
   "products": [
     {
       "id": 1,
